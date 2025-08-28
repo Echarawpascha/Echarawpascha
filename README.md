@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently a Student<br>🌱 I’m currently learning 
+I'm Echara Pascha, a 12th-grade student with a passion for Graphic Design, UI/UX Design, and Web Development. I've worked on various projects, including website creation and graphic design. | saya Echara Pascha, seorang pelajar kelas 12 yang memiliki minat besar dalam bidang Desain Grafis, Desain UI/UX, dan Pengembangan Web. Saya telah mengerjakan berbagai proyek seperti pembuatan situs web dan desain grafis.
+
 
 
 ## 🌐 Socials:
