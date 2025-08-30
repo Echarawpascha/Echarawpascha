@@ -7,7 +7,7 @@ saya Echara Pascha, seorang pelajar kelas 12 yang memiliki minat besar dalam bid
 
 # 🌐 Portofolio
 🔗 Get In Touch:
-- [Echara Pascha Web Portofolio]([https://your-portfolio-link.com](https://echarawpascha.github.io/Echarapascha-Portofolio))  
+- [Echara Pascha Web Portofolio](https://echarawpascha.github.io/Echarapascha-Portofolio)  
 - [Echara Pascha Social App](https://echarawpascha.site)  
 
 # 💻 Tech Stack & Skills:
