@@ -18,7 +18,4 @@ saya Echara Pascha, seorang pelajar kelas 12 yang memiliki minat besar dalam bid
 ---
 [![](https://visitcount.itsvg.in/api?id=Echarawpascha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/Echarawpascha/Echarawpascha/output/snake.svg" alt="Snake animation" />
-
-###
 
