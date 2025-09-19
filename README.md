@@ -6,7 +6,7 @@ I'm Echara Pascha, a 12th-grade student with a passion for Graphic Design, UI/UX
 saya Echara Pascha, seorang pelajar kelas 12 yang memiliki minat besar dalam bidang Desain Grafis, Desain UI/UX, dan Pengembangan Web. Saya telah mengerjakan berbagai proyek seperti pembuatan situs web dan desain grafis.
 
 # 🌐 Portofolio
-🔗 Get In Touch:
+🔗 Get In Touch :
 - [Echara Pascha Web Portofolio](https://echarawpascha.github.io/Echarapascha-Portofolio)  
 - [Echara Pascha Social App](https://echarawpascha.site)  
 
