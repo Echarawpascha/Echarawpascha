@@ -1,9 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+Im+Echara+Pascha+)](https://git.io/typing-svg)
 
 # 👤 About Me :
-I'm Echara Pascha, a 12th-grade student with a passion for Graphic Design, UI/UX Design, and Web Development. I've worked on various projects, including website creation and graphic design. 
+I'm Echara Pascha, a 12th-grade student with a passion for Graphic Design, UI/UX Design, and Web Development. I've worked on various projects, including website creation and graphic design
 
-saya Echara Pascha, seorang pelajar kelas 12 yang memiliki minat besar dalam bidang Desain Grafis, Desain UI/UX, dan Pengembangan Web. Saya telah mengerjakan berbagai proyek seperti pembuatan situs web dan desain grafis.
+saya Echara Pascha, seorang pelajar kelas 12 yang memiliki minat besar dalam bidang Desain Grafis, Desain UI/UX, dan Pengembangan Web. Saya telah mengerjakan berbagai proyek seperti pembuatan situs web dan desain grafis
 
 # 🌐 Portofolio
 🔗 Get In Touch :
